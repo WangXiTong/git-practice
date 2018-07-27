@@ -3,4 +3,5 @@
  * @author wangxitong(wangxitong@baidu.com)
  */
 console.log('this is test1');
-console.log('next change');
+console.log('next write');
+console.log('amend');
